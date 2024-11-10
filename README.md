@@ -4,7 +4,7 @@
 **Name**: BELHADJ Tayeb
 
 ## Assignment Details
-This repository is part of an assignment for the course **CS501: Deep Learning Complete Course**. The purpose of this repository is to document and showcase the work done during the course assignments and projects. It includes implementations, explanations, and reports related to deep learning concepts and methods as covered in the course.
+This repository is part of an assignment for the course **CS501: Deep Learning Complete Course**. The purpose of this repository is to document and showcase the work done during the course assignments and projects. It includes assigments sent by Dr. Saad Laouadi
 
 ## Repository Structure
 The repository is structured as follows:
